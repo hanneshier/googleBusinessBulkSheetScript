@@ -1,0 +1,12 @@
+{
+  "name": "google-business-bulk-sheet-script",
+  "version": "1.0.0",
+  "description": "Generate a CSV with special opening hours beeing set to closed for a specified time period.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
